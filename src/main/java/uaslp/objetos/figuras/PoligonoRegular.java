@@ -1,6 +1,8 @@
 package uaslp.objetos.figuras;
 
-public class Cuadrado {
+public class PoligonoRegular {
+    public PoligonoRegular(int numeroDeLados, double lado) {
+    }
     public void setLado(double lado) {
     }
 
@@ -9,6 +11,6 @@ public class Cuadrado {
     }
 
     public double getLado() {
-        return 1;
+        return  1;
     }
 }
